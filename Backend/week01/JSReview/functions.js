@@ -1,26 +1,51 @@
-const returnEmptyString = function () {};
+const num = 5;
+const arr = [1,2,3,4,5];
+const returnEmptyString = function () {
+return ""
+};
 
-const returnZeroNumber = function () {};
+const returnZeroNumber = function () {
+return 0
+};
 
-const returnEmptyArray = function () {};
+const returnEmptyArray = function () {
+return []
+};
 
-const returnEmptyObject = function () {};
+const returnEmptyObject = function () {
+return {}
+};
 
-const returnString = function () {};
+const returnString = function () {
+return "abc123"
+};
 
-const addition = function () {};
+const addition = function () {
+return num + num
+};
 
-const subtraction = function () {};
+const subtraction = function () {
+return num-num
+};
 
-const multiplication = function () {};
+const multiplication = function () {
+return num*num
+};
 
-const division = function () {};
+const division = function () {
+return num/num
+};
 
-const returnArray = function () {};
+const returnArray = function () {
+return arr
+};
 
-const returnFirstIndex = function () {};
+const returnFirstIndex = function () {
+return arr[0]
+};
 
-const returnSecondIndex = function () {};
+const returnSecondIndex = function () {
+};
 
 const returnArrayLength = function () {};
 
